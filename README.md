@@ -1,0 +1,5 @@
+- 👋 ola, sou tais aparecida
+- 👀 sou interesasada em aprender os cursos
+- 🌱 estou aprendendo atualmente o curso github
+- 💞️ eu quero colaborar em aprender computação
+- 📫 Email: tais.candido.silva@escola.pr.gov.br
